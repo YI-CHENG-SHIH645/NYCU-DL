@@ -1,0 +1,16 @@
+.idea
+.DS_Store
+*/.idea
+*/.DS_Store
+*/*.pages
+*/*.pdf
+*/*.pptx
+*/*.txt
+*/*.json
+Slides
+*Labs
+*.pdf
+*.key
+Lab3/data
+Lab4/sample.py
+Lab5/lab5_gans
