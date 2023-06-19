@@ -1,8 +1,8 @@
 # NYCU-DL
 
 * lab01 : Back propogation without autodiff
-* lab02 : 
-* lab03 : 
-* lab04 : 
-* lab05 : 
-* lab06 : 
+* lab02 : DeepConv & EEGNet
+* lab03 : Resnet
+* lab04 : VAE
+* lab05 : GAN
+* lab06 : DQN & DDPG
